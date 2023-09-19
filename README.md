@@ -25,5 +25,7 @@ https://github.com/Nilanjana1606/MScDSA-MDS171-23122024-Nilanjana.git |
 |  5.   | 08-09-23 |   lab05   |                                        Mix & Match Calculator.                                        | 
 https://github.com/Nilanjana1606/MScDSA-MDS171-23122024-Nilanjana.git |
 |  6.   | 11-09-23 |   lab06   |                                            Vowel Counter.                                             | https://github.com/Nilanjana1606/MScDSA-MDS171-23122024-Nilanjana.git |                                                                 
-|   7.  | 15-09-23 |   lab07   |                                        Menu Driven Restaurent                                         |
+|  7.  | 15-09-23 |   lab07   |                                        Menu Driven Restaurent                                         |
+https://github.com/Nilanjana1606/MScDSA-MDS171-23122024-Nilanjana.git |
+|  8.  | 18-09-23 |   lab08   |                                        Matrix Multiplication                                          |
 https://github.com/Nilanjana1606/MScDSA-MDS171-23122024-Nilanjana.git |
